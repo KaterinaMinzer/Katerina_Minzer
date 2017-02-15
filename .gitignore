@@ -1,3 +1,4 @@
 Katerina_Minzer/
-
+# Ignore temp files with extentions:
+*.*~
 .gitignore
